@@ -1,16 +1,53 @@
 ## Hi there 👋
 
-<!--
-**FarhanK20-hub/FarhanK20-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer, creator, and visual storyteller who believes skill beats noise and execution beats excuses.
+I work at the intersection of code, creativity, and technology—building things that actually work and look good doing it.
 
-Here are some ideas to get you started:
+🛠️ What I Do -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Web Development (React, Next.js, MERN)
+
+🎬 Video Editing & Cinematic Storytelling
+
+🧠 AI & Automation (Creator-focused tools)
+
+🎮 Game & 3D Development (Unreal Engine, Three.js)
+
+📸 Visual Design & Post-Production
+
+🔭 Current Focus -
+
+Building Nexus AI — a smart assistant for creators
+
+Creating modern, performance-focused web experiences
+
+Sharpening my craft in full-stack development & visuals
+
+🌱 Always Learning -
+
+Because comfort is the enemy of growth.
+
+Advanced React & system design
+
+AI integration in real-world products
+
+Better storytelling through visuals & code
+
+⚡ Philosophy -
+
+Quality over hype
+
+Discipline over motivation
+
+Results over explanations
+
+📫 Let’s Connect -
+
+Instagram: @_farhan.who_
+
+Gmail: farhanashfee66@gmail.com
+
+Collaborations: Open (if it makes sense)
+
+I don’t need to prove anything.
+The work does that for me.

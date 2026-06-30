@@ -1,6 +1,6 @@
 # 💫 About Me:
 AI/ML • Full-Stack • Cloud | Building intelligent systems. Student @ Symbiosis International University, Pune.
-
+🔗 **Portfolio:** [https://farhankhanstories.me/](https://farhankhanstories.me/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/VpVRppkF6s) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_farhan.who_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-khan-3aa5442b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farhanashfee66@gmail.com) 
